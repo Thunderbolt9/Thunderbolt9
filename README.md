@@ -22,3 +22,9 @@
 <img align="left" alt="Kaggle" width="26px" src="https://www.analyticsvidhya.com/wp-content/uploads/2015/06/kaggle-logo-transparent-300.png" />
 <img align="left" alt="Pycharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/512px-PyCharm_Logo.svg.png" />
 <img align="left" alt="Sublime text" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Sublime_Text_3_logo.png/150px-Sublime_Text_3_logo.png" />
+
+<br />
+
+***
+<img align="left" alt="Thunderbolt9's Github Stats" src="https://github-readme-stats.bhavesh9.vercel.app/api?username=Thunderbolt9&show_icons=true&hide_border=true" />
+
