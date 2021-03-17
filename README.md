@@ -1,6 +1,6 @@
 # Hi, I'm Bhavesh 👋 😀 👨🏼‍💻
 
-## I'm a Developer, Datascience enthusiast, and Student!
+## I'm a Developer and Student!
 - 🔭 I’m currently working on a Data analysis project.
 - 🌱 I’m currently learning Data science.
 
