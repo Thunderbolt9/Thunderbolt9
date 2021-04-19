@@ -20,7 +20,6 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Excel" width="26px" src="https://www.freepnglogos.com/uploads/excel-png-logo/supported-platforms-excel-logo-png-3.png" />
 <img align="left" alt="Kaggle" width="26px" src="https://www.analyticsvidhya.com/wp-content/uploads/2015/06/kaggle-logo-transparent-300.png" />
-<img align="left" alt="Pycharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/512px-PyCharm_Logo.svg.png" />
 <img align="left" alt="Sublime text" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Sublime_Text_3_logo.png/150px-Sublime_Text_3_logo.png" />
 
 <br />
